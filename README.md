@@ -1,6 +1,6 @@
-# Acces to the DOM easly like jQuery
+# Acces to the DOM easily like jQuery
 
-Simply copy the functions from srcipt.js file and copy them in your  .js file
+Simply copy the functions from script.js file and copy them in your  .js file
 
 now you can access to DOM elements by writing:
 ```js
