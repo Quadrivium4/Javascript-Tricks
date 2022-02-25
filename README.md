@@ -1,8 +1,8 @@
 # Acces to the DOM easily like jQuery
 
-Simply copy the functions from script.js file and copy them in your  .js file
+Simply copy the functions from [script.js](/script.js) file and copy them in your  .js file
 
-now you can access to DOM elements by writing:
+Now you can access to DOM elements by writing:
 ```js
 get('.myClass'); // returns an array of elements with class = "myClass"
 get('#myId'); // returns an element  with id = "myId"
