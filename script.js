@@ -15,6 +15,7 @@ function get(str){
         return document.getElementsByTagName(str);
     }
 }
+
 function styleAll(str, attr, value){
     for(let i = 0; i <get(str).length; i++){
         get(str)[i].style[attr]= value;

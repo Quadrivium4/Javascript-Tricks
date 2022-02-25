@@ -1,3 +1,11 @@
 # Acces to the DOM easly like jQuery
 
-Simply copy this functions in the begin of the .js file
+Simply copy the functions from srcipt.js file and copy them in your  .js file
+
+now you can access to DOM elements by writing:
+```js
+get('.myClass'); // returns an array of elements with class = "myClass"
+get('#myId'); // returns an element  with id = "myId"
+get('div'); // returns an array of elements with tag name = "div"
+styleAll('.myClass', 'color', 'red'); // change the color of all the elements with class = "myClass"
+```
